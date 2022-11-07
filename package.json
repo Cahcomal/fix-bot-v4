@@ -1,7 +1,7 @@
 {
-    "name": "wh-mods-dev",
+    "name": "cml-mods-dev",
     "version": "3.1.0",
-    "description": "WhatsApp BOT By wahid",
+    "description": "WhatsApp BOT By Comal",
     "main": "index.js",
     "type": "module",
     "engines": {
@@ -50,7 +50,7 @@
     ],
     "homepage": "https://github.com/WH-MODS-BOT/",
     "author": {
-        "name": "WH-MODS-BOT"
+        "name": "CML-MODS-BOT"
     },
     "repository": {
         "type": "git",
