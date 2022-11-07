@@ -48,16 +48,16 @@
         "google-it",
         "baileys-md"
     ],
-    "homepage": "https://github.com/WH-MODS-BOT/",
+    "homepage": "https://github.com/Cahcomal/",
     "author": {
         "name": "CML-MODS-BOT"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/WH-MODS-BOT/fix-bot-v4"
+        "url": "git+https://github.com/Cahcomal/fix-bot-v4"
     },
     "bugs": {
-        "url": "https://github.com/WH-MODS-BOT/fix-bot-v4/issues"
+        "url": "https://github.com/Cahcomal/fix-bot-v4/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
